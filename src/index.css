@@ -44,12 +44,13 @@ html body {
   border: 1px solid #ddd;
   padding: 15px;
   margin: 10px;
-  max-width: 600px;
+  width: 600px;
 }
 
 .article-title {
   font-size: 1.5rem;
   margin-bottom: 10px;
+  color: rgb(167, 16, 76);
 }
 
 .article-body {
